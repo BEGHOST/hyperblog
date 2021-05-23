@@ -1,7 +1,7 @@
 body{
     color:deeppink;
     text-align:center;
-    font-family:'Courier New', Courier, monospace;
+    font-family:sans-serif;
 
 }
 #container{
@@ -20,6 +20,7 @@ body{
     background: #33d;
     box-shadow: 0px 5px 30px 0px rgba(0, 0,0, 0.75);
     color: white;
+    font-weight: bold;
     margin:0;
     padding: 0.5em;
 }
